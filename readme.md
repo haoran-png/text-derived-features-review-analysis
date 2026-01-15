@@ -40,22 +40,22 @@ Once downloaded, extract the files and place them in the data/yelp/ directory. N
 
 ## Structure
 
-├── data
-│   └── yelp
-│       ├── yelp_academ...  (JSON file)
-│       ├── yelp_academ...  (JSON file)
-│       ├── yelp_academ...  (JSON file)
-│       ├── yelp_academ...  (JSON file)
-│       ├── yelp_academ...  (JSON file)
-│       ├── Yelp Dataset D... (PDF file)
-│       └── yelp_dataset.tar
-├── submission
-│   ├── code.pdf
-│   └── report.pdf
-├── .gitattributes
-├── .gitignore
-├── readme.md
-└── work.ipynb
+├── data   
+│   └── yelp   
+│       ├── yelp_academic_dataset_review.json   
+│       ├── yelp_academic_dataset_business.json   
+│       ├── yelp_academic_dataset_user.json   
+│       ├── yelp_academic_dataset_checkin.json   
+│       ├── yelp_academic_dataset_tip.json   
+│       ├── Yelp Dataset Documentation & ToS   
+│       └── yelp_dataset.tar   
+├── submission   
+│   ├── code.pdf   
+│   └── report.pdf   
+├── .gitattributes   
+├── .gitignore   
+├── readme.md   
+└── work.ipynb   
 
 ---
 
